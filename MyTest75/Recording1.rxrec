@@ -28,7 +28,7 @@ mode="Global">
 		<loggingrecorditem
 		category="User"
 		enabled="True"
-		message="test123"
+		message="test"
 		optional="False"
 		reportlevel="Info;20"
 		searchpropertyid="c55e7cdc-59b8-499b-8654-4ae7717796d1">

@@ -79,7 +79,7 @@ namespace MyTest75
 
             Init();
 
-            Report.Log(ReportLevel.Info, "User", "test123", new RecordItemIndex(0));
+            Report.Log(ReportLevel.Info, "User", "test", new RecordItemIndex(0));
             
         }
 
