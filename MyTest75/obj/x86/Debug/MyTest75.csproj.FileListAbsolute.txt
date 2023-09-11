@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\bin\Debug\MyTest75.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\bin\Debug\MyTest75.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\bin\Debug\MyTest75.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\bin\Debug\MyTest75.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\bin\Debug\MyTest75.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\obj\x86\Debug\MyTest75.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\obj\x86\Debug\MyTest75.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\obj\x86\Debug\MyTest75.csproj.CopyComplete
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\obj\x86\Debug\MyTest75.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\obj\x86\Debug\MyTest75.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\MyTest75\MyTest75\bin\Debug\MyTest755.rxtst
